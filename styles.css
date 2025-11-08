@@ -424,27 +424,3 @@ body {
 .newsletter button:hover {
   color: #a6782a;
 }
-
-/* Responsive */
-@media (max-width: 900px) {
-  .inspiration {
-    flex-direction: column;
-    text-align: center;
-  }
-
-  .inspire-image {
-    text-align: center;
-    margin-top: 30px;
-  }
-
-  .inspire-image img {
-    width: 100%;
-  }
-
-  .footer-content {
-    flex-direction: column;
-  }
-}
-
-
-
